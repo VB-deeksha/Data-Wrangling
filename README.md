@@ -1,6 +1,6 @@
 # Data Analysis Lab - 2
 
-## Data-Wrangling
+## Objectives of Data-Wrangling
 
 • Handle missing values
 
